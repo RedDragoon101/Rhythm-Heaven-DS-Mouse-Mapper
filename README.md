@@ -24,7 +24,8 @@ Up, Down, Left, Right:
 These should be put on the stick or d-pad and is used to move in the menus.
    
 5. Open Rhythm Heaven DS.py
-6. Thats it! The game (should) be in the right orientation by default and at the right size.
+6. Go ahead and set the Start and L button in the Controller Input Settings inside MelonDS
+7. Thats it! The game (should) be in the right orientation by default and at the right size.
     If its not, go into the settings and make it rotated by 270 degrees and Windowed Fullscreen. This is so the script can properly touch the right places. If you want, you can increase the graphics in the settings to fit your computers specs.
 
     Hope you enjoy my hard labor.
